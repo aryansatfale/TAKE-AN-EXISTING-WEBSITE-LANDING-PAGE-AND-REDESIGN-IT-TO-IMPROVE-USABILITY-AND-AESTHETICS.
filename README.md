@@ -16,4 +16,4 @@
 
 ## OUTPUT:
 
-https://www.figma.com/design/P3oKL7HVXYxRQhQjZ6K8cc/Uber-landing-page?node-id=0-1&t=xbQoYpDbQrB4igCP-1
+[Uber landing page (1).pdf](https://github.com/user-attachments/files/18478746/Uber.landing.page.1.pdf)
