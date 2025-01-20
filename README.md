@@ -16,4 +16,4 @@
 
 ## OUTPUT:
 
-[Uber landing page (1).pdf](https://github.com/user-attachments/files/18478746/Uber.landing.page.1.pdf)
+![Image](https://github.com/user-attachments/assets/0e4b5bcb-a1c3-4b2a-a54d-401d7528a52d)
